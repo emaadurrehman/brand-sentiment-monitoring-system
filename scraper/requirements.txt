@@ -1,0 +1,27 @@
+# Web scraping
+selenium==4.15.2
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+
+# Data processing
+pandas==2.1.3
+numpy==1.26.2
+
+# Database
+sqlalchemy==2.0.23
+
+# NLP and sentiment analysis
+nltk==3.8.1
+textblob==0.17.1
+vaderSentiment==3.3.2
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
+
+# Logging
+loguru==0.7.2
+
+# WebDriver management
+webdriver-manager==4.0.1
